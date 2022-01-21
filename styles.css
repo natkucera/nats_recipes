@@ -1,7 +1,23 @@
 body {
-    background-color: grey;
+    background-color: mediumaquamarine;
 }
 
 h1 {
-    color: black
+    color: white;
+    background-color: mediumaquamarine;
+    font-family:'Courier New', monospace
+    
+}
+
+h2 {
+    background-color: mediumaquamarine;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+.center {
+    text-align: center;
+    border: 3px aquamarine;
 }
