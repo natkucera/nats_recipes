@@ -24,6 +24,13 @@ h2 {
     padding: 50px;
 }
 
+.social {
+    color: teal;
+    background-color: white;
+    opacity: 0.9;
+    padding: 50px;
+}
+
 a {
     text-decoration:none !important;
 }
