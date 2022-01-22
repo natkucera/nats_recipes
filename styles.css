@@ -1,23 +1,62 @@
 body {
-    background-color: mediumaquamarine;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/002/184/161/original/seamless-pattern-of-vegetables-drawn-by-a-white-line-on-an-aquamarine-background-vector.jpg');
+    background-color: white;
 }
 
 h1 {
-    color: white;
-    background-color: mediumaquamarine;
-    font-family:'Courier New', monospace
-    
+    color: teal;
+    background-color: white;
+    font-family:'Courier New', monospace;
+    opacity: 0.9;
+    padding: 30px;    
 }
 
 h2 {
-    background-color: mediumaquamarine;
+    color: teal;
+    background-color: white;
+    font-family:'Courier New', monospace;
+}
+
+.recipes {
+    color: teal;
+    background-color: white;
+    opacity: 0.9;
+    padding: 50px;
+}
+
+a {
+    text-decoration:none !important;
+}
+
+a:link {
+    color:teal;
+    font-family:'Courier New', Courier, monospace;
+}
+
+a:visited {
+    color: teal;
+    font-family:'Courier New', Courier, monospace;
+}
+
+a:hover {
+    color: rgb(5, 78, 78) !important;
+    font-family:'Courier New', Courier, monospace;
+    font-style: bold !important;
+    text-decoration:none !important;
+}
+
+a:active {
+    color: teal;
+    font-family:'Courier New', Courier, monospace;
 }
 
 .content {
-    max-width: 500px;
+    max-width: 600px;
     margin: auto;
 }
+
 .center {
     text-align: center;
     border: 3px aquamarine;
 }
+
